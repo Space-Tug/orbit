@@ -130,4 +130,8 @@ end
 
 plot(client_altitude / 1E3, propellant_mass.(client_altitude, client_inlcination) / 1E3, title = "Orbital Altitude Sensitivity Sweep")
 xlabel!("Orbital Altitude (km)")
+<<<<<<< refs/remotes/origin/main
 ylabel!("Propellant Mass (kg)")
+=======
+ylabel!("Propellant Mass (kg)")
+>>>>>>> Initial commit
